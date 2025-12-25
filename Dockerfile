@@ -1,4 +1,4 @@
-FROM docker.1ms.run/vllm/vllm-openai:latest
+FROM vllm/vllm-openai:latest
 
 WORKDIR /data
 
